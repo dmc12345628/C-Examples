@@ -7,7 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		42F784402027A23900B8FD37 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7843F2027A23900B8FD37 /* main.c */; };
+		42F784872027A43900B8FD37 /* Exercice 5.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784472027A42600B8FD37 /* Exercice 5.c */; };
+		42F784882027A43900B8FD37 /* Exercice 13.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7844D2027A42700B8FD37 /* Exercice 13.c */; };
+		42F784892027A43900B8FD37 /* Exercice 14.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7844E2027A42700B8FD37 /* Exercice 14.c */; };
+		42F7848A2027A43900B8FD37 /* Exercice 9.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784522027A42700B8FD37 /* Exercice 9.c */; };
+		42F7848B2027A43900B8FD37 /* Exercice 18.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784532027A42700B8FD37 /* Exercice 18.c */; };
+		42F7848C2027A43900B8FD37 /* Exercice 17.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784542027A42800B8FD37 /* Exercice 17.c */; };
+		42F7848D2027A43900B8FD37 /* Exercice 4.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784552027A42800B8FD37 /* Exercice 4.c */; };
+		42F7848E2027A43900B8FD37 /* Exercice 26.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784562027A42800B8FD37 /* Exercice 26.c */; };
+		42F7848F2027A43900B8FD37 /* Exercice 24.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784572027A42800B8FD37 /* Exercice 24.c */; };
+		42F784902027A43900B8FD37 /* Exercice 29.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784592027A42900B8FD37 /* Exercice 29.c */; };
+		42F784912027A43900B8FD37 /* Exercice 19.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7845A2027A42900B8FD37 /* Exercice 19.c */; };
+		42F784922027A43900B8FD37 /* Exercice 3.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7845B2027A42900B8FD37 /* Exercice 3.c */; };
+		42F784932027A43900B8FD37 /* Exercice 15.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7845C2027A42900B8FD37 /* Exercice 15.c */; };
+		42F784942027A43900B8FD37 /* Exercice 21.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7845D2027A42900B8FD37 /* Exercice 21.c */; };
+		42F784952027A43900B8FD37 /* Exercice 6.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7845E2027A42A00B8FD37 /* Exercice 6.c */; };
+		42F784962027A43900B8FD37 /* Exercice 7.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784602027A42A00B8FD37 /* Exercice 7.c */; };
+		42F784972027A43900B8FD37 /* Exercice 25.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784622027A42B00B8FD37 /* Exercice 25.c */; };
+		42F784982027A43900B8FD37 /* Exercice 1.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784632027A42C00B8FD37 /* Exercice 1.c */; };
+		42F784992027A43900B8FD37 /* Exercice 30.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784652027A42D00B8FD37 /* Exercice 30.c */; };
+		42F7849A2027A43900B8FD37 /* Exercice 20.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784682027A42E00B8FD37 /* Exercice 20.c */; };
+		42F7849B2027A43900B8FD37 /* Exercice 27.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784692027A42E00B8FD37 /* Exercice 27.c */; };
+		42F7849C2027A43900B8FD37 /* Exercice 22.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7846B2027A42F00B8FD37 /* Exercice 22.c */; };
+		42F7849D2027A43A00B8FD37 /* Exercice 10.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7846D2027A43000B8FD37 /* Exercice 10.c */; };
+		42F7849E2027A43A00B8FD37 /* Exercice 16.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7846E2027A43000B8FD37 /* Exercice 16.c */; };
+		42F7849F2027A43A00B8FD37 /* Exercice 23.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784702027A43100B8FD37 /* Exercice 23.c */; };
+		42F784A02027A43A00B8FD37 /* Exercice 32.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784712027A43100B8FD37 /* Exercice 32.c */; };
+		42F784A12027A43A00B8FD37 /* Exercice 28.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784742027A43200B8FD37 /* Exercice 28.c */; };
+		42F784A22027A43A00B8FD37 /* Exercice 8.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784792027A43400B8FD37 /* Exercice 8.c */; };
+		42F784A32027A43A00B8FD37 /* Exercice 12.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7847A2027A43400B8FD37 /* Exercice 12.c */; };
+		42F784A42027A43A00B8FD37 /* Exercice 2.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F7847E2027A43600B8FD37 /* Exercice 2.c */; };
+		42F784A52027A43A00B8FD37 /* Exercice 11.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784802027A43700B8FD37 /* Exercice 11.c */; };
+		42F784A62027A43A00B8FD37 /* Exercice 31.c in Sources */ = {isa = PBXBuildFile; fileRef = 42F784862027A43900B8FD37 /* Exercice 31.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +55,70 @@
 
 /* Begin PBXFileReference section */
 		42F7843C2027A23900B8FD37 /* C-Examples */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "C-Examples"; sourceTree = BUILT_PRODUCTS_DIR; };
-		42F7843F2027A23900B8FD37 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		42F784472027A42600B8FD37 /* Exercice 5.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 5.c"; sourceTree = "<group>"; };
+		42F784482027A42600B8FD37 /* Exercice 22.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 22.h"; sourceTree = "<group>"; };
+		42F784492027A42600B8FD37 /* Exercice 32.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 32.h"; sourceTree = "<group>"; };
+		42F7844A2027A42600B8FD37 /* Exercice 17.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 17.h"; sourceTree = "<group>"; };
+		42F7844B2027A42600B8FD37 /* Exercice 6.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 6.h"; sourceTree = "<group>"; };
+		42F7844C2027A42600B8FD37 /* Exercice 29.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 29.h"; sourceTree = "<group>"; };
+		42F7844D2027A42700B8FD37 /* Exercice 13.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 13.c"; sourceTree = "<group>"; };
+		42F7844E2027A42700B8FD37 /* Exercice 14.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 14.c"; sourceTree = "<group>"; };
+		42F7844F2027A42700B8FD37 /* Exercice 13.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 13.h"; sourceTree = "<group>"; };
+		42F784502027A42700B8FD37 /* Exercice 28.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 28.h"; sourceTree = "<group>"; };
+		42F784512027A42700B8FD37 /* Exercice 27.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 27.h"; sourceTree = "<group>"; };
+		42F784522027A42700B8FD37 /* Exercice 9.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 9.c"; sourceTree = "<group>"; };
+		42F784532027A42700B8FD37 /* Exercice 18.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 18.c"; sourceTree = "<group>"; };
+		42F784542027A42800B8FD37 /* Exercice 17.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 17.c"; sourceTree = "<group>"; };
+		42F784552027A42800B8FD37 /* Exercice 4.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 4.c"; sourceTree = "<group>"; };
+		42F784562027A42800B8FD37 /* Exercice 26.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 26.c"; sourceTree = "<group>"; };
+		42F784572027A42800B8FD37 /* Exercice 24.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 24.c"; sourceTree = "<group>"; };
+		42F784582027A42800B8FD37 /* Exercice 16.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 16.h"; sourceTree = "<group>"; };
+		42F784592027A42900B8FD37 /* Exercice 29.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 29.c"; sourceTree = "<group>"; };
+		42F7845A2027A42900B8FD37 /* Exercice 19.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 19.c"; sourceTree = "<group>"; };
+		42F7845B2027A42900B8FD37 /* Exercice 3.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 3.c"; sourceTree = "<group>"; };
+		42F7845C2027A42900B8FD37 /* Exercice 15.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 15.c"; sourceTree = "<group>"; };
+		42F7845D2027A42900B8FD37 /* Exercice 21.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 21.c"; sourceTree = "<group>"; };
+		42F7845E2027A42A00B8FD37 /* Exercice 6.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 6.c"; sourceTree = "<group>"; };
+		42F7845F2027A42A00B8FD37 /* Exercice 4.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 4.h"; sourceTree = "<group>"; };
+		42F784602027A42A00B8FD37 /* Exercice 7.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 7.c"; sourceTree = "<group>"; };
+		42F784612027A42B00B8FD37 /* Exercice 25.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 25.h"; sourceTree = "<group>"; };
+		42F784622027A42B00B8FD37 /* Exercice 25.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 25.c"; sourceTree = "<group>"; };
+		42F784632027A42C00B8FD37 /* Exercice 1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 1.c"; sourceTree = "<group>"; };
+		42F784642027A42C00B8FD37 /* Exercice 19.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 19.h"; sourceTree = "<group>"; };
+		42F784652027A42D00B8FD37 /* Exercice 30.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 30.c"; sourceTree = "<group>"; };
+		42F784662027A42D00B8FD37 /* Exercice 2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 2.h"; sourceTree = "<group>"; };
+		42F784672027A42E00B8FD37 /* Exercice 20.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 20.h"; sourceTree = "<group>"; };
+		42F784682027A42E00B8FD37 /* Exercice 20.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 20.c"; sourceTree = "<group>"; };
+		42F784692027A42E00B8FD37 /* Exercice 27.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 27.c"; sourceTree = "<group>"; };
+		42F7846A2027A42F00B8FD37 /* Exercice 30.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 30.h"; sourceTree = "<group>"; };
+		42F7846B2027A42F00B8FD37 /* Exercice 22.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 22.c"; sourceTree = "<group>"; };
+		42F7846C2027A43000B8FD37 /* Exercice 5.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 5.h"; sourceTree = "<group>"; };
+		42F7846D2027A43000B8FD37 /* Exercice 10.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 10.c"; sourceTree = "<group>"; };
+		42F7846E2027A43000B8FD37 /* Exercice 16.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 16.c"; sourceTree = "<group>"; };
+		42F7846F2027A43100B8FD37 /* Exercice 23.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 23.h"; sourceTree = "<group>"; };
+		42F784702027A43100B8FD37 /* Exercice 23.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 23.c"; sourceTree = "<group>"; };
+		42F784712027A43100B8FD37 /* Exercice 32.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 32.c"; sourceTree = "<group>"; };
+		42F784722027A43200B8FD37 /* Exercice 1.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 1.h"; sourceTree = "<group>"; };
+		42F784732027A43200B8FD37 /* Exercice 18.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 18.h"; sourceTree = "<group>"; };
+		42F784742027A43200B8FD37 /* Exercice 28.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 28.c"; sourceTree = "<group>"; };
+		42F784752027A43300B8FD37 /* Exercice 10.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 10.h"; sourceTree = "<group>"; };
+		42F784762027A43300B8FD37 /* Exercice 12.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 12.h"; sourceTree = "<group>"; };
+		42F784772027A43300B8FD37 /* Exercice 15.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 15.h"; sourceTree = "<group>"; };
+		42F784782027A43400B8FD37 /* Exercice 26.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 26.h"; sourceTree = "<group>"; };
+		42F784792027A43400B8FD37 /* Exercice 8.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 8.c"; sourceTree = "<group>"; };
+		42F7847A2027A43400B8FD37 /* Exercice 12.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 12.c"; sourceTree = "<group>"; };
+		42F7847B2027A43500B8FD37 /* Exercice 21.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 21.h"; sourceTree = "<group>"; };
+		42F7847C2027A43500B8FD37 /* Exercice 7.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 7.h"; sourceTree = "<group>"; };
+		42F7847D2027A43600B8FD37 /* Exercice 3.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 3.h"; sourceTree = "<group>"; };
+		42F7847E2027A43600B8FD37 /* Exercice 2.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 2.c"; sourceTree = "<group>"; };
+		42F7847F2027A43600B8FD37 /* Exercice 31.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 31.h"; sourceTree = "<group>"; };
+		42F784802027A43700B8FD37 /* Exercice 11.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 11.c"; sourceTree = "<group>"; };
+		42F784812027A43700B8FD37 /* Exercice 8.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 8.h"; sourceTree = "<group>"; };
+		42F784822027A43700B8FD37 /* Exercice 9.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 9.h"; sourceTree = "<group>"; };
+		42F784832027A43800B8FD37 /* Exercice 24.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 24.h"; sourceTree = "<group>"; };
+		42F784842027A43800B8FD37 /* Exercice 11.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 11.h"; sourceTree = "<group>"; };
+		42F784852027A43800B8FD37 /* Exercice 14.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "Exercice 14.h"; sourceTree = "<group>"; };
+		42F784862027A43900B8FD37 /* Exercice 31.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = "Exercice 31.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +151,70 @@
 		42F7843E2027A23900B8FD37 /* C-Examples */ = {
 			isa = PBXGroup;
 			children = (
-				42F7843F2027A23900B8FD37 /* main.c */,
+				42F784632027A42C00B8FD37 /* Exercice 1.c */,
+				42F784722027A43200B8FD37 /* Exercice 1.h */,
+				42F7847E2027A43600B8FD37 /* Exercice 2.c */,
+				42F784662027A42D00B8FD37 /* Exercice 2.h */,
+				42F7845B2027A42900B8FD37 /* Exercice 3.c */,
+				42F7847D2027A43600B8FD37 /* Exercice 3.h */,
+				42F784552027A42800B8FD37 /* Exercice 4.c */,
+				42F7845F2027A42A00B8FD37 /* Exercice 4.h */,
+				42F784472027A42600B8FD37 /* Exercice 5.c */,
+				42F7846C2027A43000B8FD37 /* Exercice 5.h */,
+				42F7845E2027A42A00B8FD37 /* Exercice 6.c */,
+				42F7844B2027A42600B8FD37 /* Exercice 6.h */,
+				42F784602027A42A00B8FD37 /* Exercice 7.c */,
+				42F7847C2027A43500B8FD37 /* Exercice 7.h */,
+				42F784792027A43400B8FD37 /* Exercice 8.c */,
+				42F784812027A43700B8FD37 /* Exercice 8.h */,
+				42F784522027A42700B8FD37 /* Exercice 9.c */,
+				42F784822027A43700B8FD37 /* Exercice 9.h */,
+				42F7846D2027A43000B8FD37 /* Exercice 10.c */,
+				42F784752027A43300B8FD37 /* Exercice 10.h */,
+				42F784802027A43700B8FD37 /* Exercice 11.c */,
+				42F784842027A43800B8FD37 /* Exercice 11.h */,
+				42F7847A2027A43400B8FD37 /* Exercice 12.c */,
+				42F784762027A43300B8FD37 /* Exercice 12.h */,
+				42F7844D2027A42700B8FD37 /* Exercice 13.c */,
+				42F7844F2027A42700B8FD37 /* Exercice 13.h */,
+				42F7844E2027A42700B8FD37 /* Exercice 14.c */,
+				42F784852027A43800B8FD37 /* Exercice 14.h */,
+				42F7845C2027A42900B8FD37 /* Exercice 15.c */,
+				42F784772027A43300B8FD37 /* Exercice 15.h */,
+				42F7846E2027A43000B8FD37 /* Exercice 16.c */,
+				42F784582027A42800B8FD37 /* Exercice 16.h */,
+				42F784542027A42800B8FD37 /* Exercice 17.c */,
+				42F7844A2027A42600B8FD37 /* Exercice 17.h */,
+				42F784532027A42700B8FD37 /* Exercice 18.c */,
+				42F784732027A43200B8FD37 /* Exercice 18.h */,
+				42F7845A2027A42900B8FD37 /* Exercice 19.c */,
+				42F784642027A42C00B8FD37 /* Exercice 19.h */,
+				42F784682027A42E00B8FD37 /* Exercice 20.c */,
+				42F784672027A42E00B8FD37 /* Exercice 20.h */,
+				42F7845D2027A42900B8FD37 /* Exercice 21.c */,
+				42F7847B2027A43500B8FD37 /* Exercice 21.h */,
+				42F7846B2027A42F00B8FD37 /* Exercice 22.c */,
+				42F784482027A42600B8FD37 /* Exercice 22.h */,
+				42F784702027A43100B8FD37 /* Exercice 23.c */,
+				42F7846F2027A43100B8FD37 /* Exercice 23.h */,
+				42F784572027A42800B8FD37 /* Exercice 24.c */,
+				42F784832027A43800B8FD37 /* Exercice 24.h */,
+				42F784622027A42B00B8FD37 /* Exercice 25.c */,
+				42F784612027A42B00B8FD37 /* Exercice 25.h */,
+				42F784562027A42800B8FD37 /* Exercice 26.c */,
+				42F784782027A43400B8FD37 /* Exercice 26.h */,
+				42F784692027A42E00B8FD37 /* Exercice 27.c */,
+				42F784512027A42700B8FD37 /* Exercice 27.h */,
+				42F784742027A43200B8FD37 /* Exercice 28.c */,
+				42F784502027A42700B8FD37 /* Exercice 28.h */,
+				42F784592027A42900B8FD37 /* Exercice 29.c */,
+				42F7844C2027A42600B8FD37 /* Exercice 29.h */,
+				42F784652027A42D00B8FD37 /* Exercice 30.c */,
+				42F7846A2027A42F00B8FD37 /* Exercice 30.h */,
+				42F784862027A43900B8FD37 /* Exercice 31.c */,
+				42F7847F2027A43600B8FD37 /* Exercice 31.h */,
+				42F784712027A43100B8FD37 /* Exercice 32.c */,
+				42F784492027A42600B8FD37 /* Exercice 32.h */,
 			);
 			path = "C-Examples";
 			sourceTree = "<group>";
@@ -119,7 +276,38 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				42F784402027A23900B8FD37 /* main.c in Sources */,
+				42F7849A2027A43900B8FD37 /* Exercice 20.c in Sources */,
+				42F7849B2027A43900B8FD37 /* Exercice 27.c in Sources */,
+				42F784932027A43900B8FD37 /* Exercice 15.c in Sources */,
+				42F784912027A43900B8FD37 /* Exercice 19.c in Sources */,
+				42F784882027A43900B8FD37 /* Exercice 13.c in Sources */,
+				42F784972027A43900B8FD37 /* Exercice 25.c in Sources */,
+				42F7848D2027A43900B8FD37 /* Exercice 4.c in Sources */,
+				42F784872027A43900B8FD37 /* Exercice 5.c in Sources */,
+				42F784A52027A43A00B8FD37 /* Exercice 11.c in Sources */,
+				42F7849E2027A43A00B8FD37 /* Exercice 16.c in Sources */,
+				42F784A02027A43A00B8FD37 /* Exercice 32.c in Sources */,
+				42F784902027A43900B8FD37 /* Exercice 29.c in Sources */,
+				42F784A12027A43A00B8FD37 /* Exercice 28.c in Sources */,
+				42F7848C2027A43900B8FD37 /* Exercice 17.c in Sources */,
+				42F784992027A43900B8FD37 /* Exercice 30.c in Sources */,
+				42F784A32027A43A00B8FD37 /* Exercice 12.c in Sources */,
+				42F7849F2027A43A00B8FD37 /* Exercice 23.c in Sources */,
+				42F7849C2027A43900B8FD37 /* Exercice 22.c in Sources */,
+				42F7848B2027A43900B8FD37 /* Exercice 18.c in Sources */,
+				42F7848E2027A43900B8FD37 /* Exercice 26.c in Sources */,
+				42F784A62027A43A00B8FD37 /* Exercice 31.c in Sources */,
+				42F7849D2027A43A00B8FD37 /* Exercice 10.c in Sources */,
+				42F7848A2027A43900B8FD37 /* Exercice 9.c in Sources */,
+				42F784952027A43900B8FD37 /* Exercice 6.c in Sources */,
+				42F784982027A43900B8FD37 /* Exercice 1.c in Sources */,
+				42F7848F2027A43900B8FD37 /* Exercice 24.c in Sources */,
+				42F784A42027A43A00B8FD37 /* Exercice 2.c in Sources */,
+				42F784942027A43900B8FD37 /* Exercice 21.c in Sources */,
+				42F784892027A43900B8FD37 /* Exercice 14.c in Sources */,
+				42F784962027A43900B8FD37 /* Exercice 7.c in Sources */,
+				42F784922027A43900B8FD37 /* Exercice 3.c in Sources */,
+				42F784A22027A43A00B8FD37 /* Exercice 8.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
