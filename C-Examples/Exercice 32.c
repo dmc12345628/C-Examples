@@ -7,7 +7,6 @@
 //
 
 #include "Exercice 32.h"
-
 struct Livres {
 	char titre[50];
 	char auteur[50];
@@ -43,4 +42,3 @@ void imprimerLivre(struct Livres *livre) {
 	printf("Livre sujet : %s\n", livre->sujet);
 	printf("Livre livre_id : %d\n", livre->livre_id);
 }
-
